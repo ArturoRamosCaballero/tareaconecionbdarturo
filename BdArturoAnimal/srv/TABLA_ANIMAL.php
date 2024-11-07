@@ -1,0 +1,7 @@
+<?php
+
+const ANIMAL = "ANIMAL";
+const PAS_ID = "PAS_ID";
+const PAS_NOMBRE = "PAS_NOMBRE";
+const PAS_ESPECIE = "PAS_ESPECIE";
+const PAS_ALIMENTO = "PAS_ALIMENTO";
